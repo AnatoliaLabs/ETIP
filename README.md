@@ -1,2 +1,3 @@
-# ETIP
-A fast and lightweight Linux distribution based on Pardus for interactive whiteboards in Türkiye!
+# ETIP by Anatolia Labs
+Etkileşimli Tahtaları İyileştirme Projesi kısaca ETIP, pardus 23 backports tabanlı, hızlı, hafif ve daha modern bir akıllı tahta sunmayı amaçlıyor. Proje sadece Türkiye'deki akıllı tahtaları kapsıyor.
+Çok yakında...
