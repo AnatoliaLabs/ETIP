@@ -1,0 +1,11 @@
+{
+    "name": "Debian Unstable (Sid)",
+    "image": "debian:unstable-slim",
+    "features": {
+        // Codespaces ortamında git, curl ve temel kullanıcı ayarlarının otomatik kurulması için:
+        "ghcr.io/devcontainers/features/common-utils:2": {
+            "installZsh": true,
+            "configureZshAsDefaultShell": true
+        }
+    }
+}
